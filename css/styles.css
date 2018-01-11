@@ -1,4 +1,16 @@
-#cats {
+.cat1 {
+  display: none;
+}
+
+.cat2 {
+  display: none;
+}
+
+#cat-info1 {
+  display: none;
+}
+
+#cat-info2 {
   display: none;
 }
 
