@@ -1,4 +1,12 @@
-#cats, #pandas, #dogs {
+#cats {
+  display: none;
+}
+
+#pandas {
+  display: none;
+}
+
+#dogs {
   display: none;
 }
 
