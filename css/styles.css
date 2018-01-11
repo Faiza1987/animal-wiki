@@ -14,11 +14,35 @@
   display: none;
 }
 
-#pandas {
+.panda1 {
   display: none;
 }
 
-#dogs {
+.panda2 {
+  display: none;
+}
+
+#panda-info1 {
+  display: none;
+}
+
+#panda-info2 {
+  display: none;
+}
+
+.dog1 {
+  display: none;
+}
+
+.dog2 {
+  display: none;
+}
+
+#dog-info1 {
+  display: none;
+}
+
+#dog-info2 {
   display: none;
 }
 
